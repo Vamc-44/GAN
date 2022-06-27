@@ -9,7 +9,7 @@ GANs achieve this level of realism by pairing a generator, which learns to produ
 
 #Networks – use deep neural networks for training purposes.
 
-                                                                         GAN Architecture
+GAN Architecture
 
 <p align="center">
   <img 
@@ -40,17 +40,38 @@ the particularity of cartoon images
 
 ##GENERATOR
 
-<img src= "https://user-images.githubusercontent.com/91316387/175880633-e984bb2c-e011-49e9-9620-9484f3f8e2ef.png" =250x250>
+<p align="center">
+  <img 
+    width="350"
+    height="200"
+    src="https://user-images.githubusercontent.com/91316387/175880633-e984bb2c-e011-49e9-9620-9484f3f8e2ef.png"
+  >
+</p>
+
 
 ##DISCRIMINATOR
 
-![image](https://user-images.githubusercontent.com/91316387/175880712-1c39d4bf-c7d1-45ee-94a6-0aad09b71714.png =250x250)
+<p align="center">
+  <img 
+    width="350"
+    height="200"
+    src="https://user-images.githubusercontent.com/91316387/175880712-1c39d4bf-c7d1-45ee-94a6-0aad09b71714.png"
+  >
+</p>
+
 
 RESULTS
 
 sample output of model!
 
-![image](https://user-images.githubusercontent.com/91316387/175880931-472d1882-5437-4ff3-a771-0567ea6b1313.png =250x250)
+<p align="center">
+  <img 
+    width="350"
+    height="200"
+    src="https://user-images.githubusercontent.com/91316387/175880931-472d1882-5437-4ff3-a771-0567ea6b1313.png"
+  >
+</p>
+
 
 Results folder will be generated in the process of training the model. What we
 have observed in the training process is that the similarity between the animated
@@ -61,12 +82,23 @@ good quality image after 100000 iterations and obtained as well.
 
 Generated image after 10K iterations!
 
-![image](https://user-images.githubusercontent.com/91316387/175881904-70a222fc-e580-413c-995b-de1174aa1759.png =250x250)
+<p align="center">
+  <img 
+    width="350"
+    height="200"
+    src="https://user-images.githubusercontent.com/91316387/175881904-70a222fc-e580-413c-995b-de1174aa1759.png"
+  >
+</p>
 
 Generated image after 100K iterations!
 
-![image](https://user-images.githubusercontent.com/91316387/175881947-98dadab7-0b80-492f-9e69-54f2495d40aa.png =250x250)
-
+<p align="center">
+  <img 
+    width="350"
+    height="200"
+    src="https://user-images.githubusercontent.com/91316387/175881947-98dadab7-0b80-492f-9e69-54f2495d40aa.png"
+  >
+</p>
 
 #CONCLUSION
 
@@ -80,10 +112,3 @@ We also present a straightforward but effective initialization phase to assist
 enhance convergence. The results reveal that CartoonGAN can learn a model that converts photos of
 real-world scenes into cartoon-style images with great quality and efficiency, exceeding state-of-the-art stylization approaches by a wide margin
 
-<p align="center">
-  <img 
-    width="300"
-    height="300"
-    src="https://user-images.githubusercontent.com/91316387/175881947-98dadab7-0b80-492f-9e69-54f2495d40aa.png"
-  >
-</p>
