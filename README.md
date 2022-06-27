@@ -14,7 +14,7 @@ GAN Architecture
 <p align="center">
   <img 
     width="350"
-    height="350"
+    height="200"
     src="https://user-images.githubusercontent.com/91316387/175883213-736e77b3-f351-4e64-a727-47d671a6159c.jpg"
   >
 </p>
