@@ -9,6 +9,8 @@ GANs achieve this level of realism by pairing a generator, which learns to produ
 
 #Networks – use deep neural networks for training purposes.
 
+![image](https://user-images.githubusercontent.com/91316387/175880242-cd809f8d-1afe-4708-be35-6b8dc8c7d5d6.png)
+
 We use GANs to make images with flat shading that resemble cartoon styles, a variety of
 methods have been devised. Image filtering or formulations in optimization
 problems are used in these strategies. However, capturing complex aesthetic styles
@@ -26,3 +28,6 @@ trained to produce output that fools the discriminator. The other is the
 discriminator D which classifies whether the image is from the real target
 manifold or synthetic. We design the generator and discriminator networks to suit
 the particularity of cartoon images
+
+
+
