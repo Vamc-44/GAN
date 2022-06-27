@@ -71,3 +71,10 @@ We also present a straightforward but effective initialization phase to assist
 enhance convergence. The results reveal that CartoonGAN can learn a model that converts photos of
 real-world scenes into cartoon-style images with great quality and efficiency, exceeding state-of-the-art stylization approaches by a wide margin
 
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="https://picsum.photos/300/300"
+  >
+</p>
