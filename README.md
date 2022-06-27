@@ -80,7 +80,7 @@ increased, which can be observed in the below image samples. The model
 randomly pics the images and gives the output of few samples. We expected a
 good quality image after 100000 iterations and obtained as well.
 
-                                           *Generated image after 10K iterations!*
+*Generated image after 10K iterations!*
 
 <p align="center">
   <img 
@@ -90,7 +90,7 @@ good quality image after 100000 iterations and obtained as well.
   >
 </p>
 
-                                           *Generated image after 100K iterations!*
+*Generated image after 100K iterations!*
 
 <p align="center">
   <img 
@@ -111,4 +111,6 @@ VGG network, which provides enough flexibility for replicating smooth shading
 We also present a straightforward but effective initialization phase to assist
 enhance convergence. The results reveal that CartoonGAN can learn a model that converts photos of
 real-world scenes into cartoon-style images with great quality and efficiency, exceeding state-of-the-art stylization approaches by a wide margin
+
+
 
