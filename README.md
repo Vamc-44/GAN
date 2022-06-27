@@ -62,7 +62,7 @@ the particularity of cartoon images
 
 **RESULTS**
 
-sample output of model!
+*Sample output of model!*
 
 <p align="center">
   <img 
@@ -80,7 +80,7 @@ increased, which can be observed in the below image samples. The model
 randomly pics the images and gives the output of few samples. We expected a
 good quality image after 100000 iterations and obtained as well.
 
-*Generated image after 10K iterations!*
+                                           *Generated image after 10K iterations!*
 
 <p align="center">
   <img 
@@ -90,7 +90,7 @@ good quality image after 100000 iterations and obtained as well.
   >
 </p>
 
-*Generated image after 100K iterations!*
+                                           *Generated image after 100K iterations!*
 
 <p align="center">
   <img 
