@@ -9,7 +9,7 @@ GANs achieve this level of realism by pairing a generator, which learns to produ
 
 #Networks – use deep neural networks for training purposes.
 
-![e169d77e-b6e8-4955-8532-a316baaad637](https://user-images.githubusercontent.com/91316387/175883213-736e77b3-f351-4e64-a727-47d671a6159c.jpg =250x250)
+![e169d77e-b6e8-4955-8532-a316baaad637](https://user-images.githubusercontent.com/91316387/175883213-736e77b3-f351-4e64-a727-47d671a6159c.jpg)
 
 We use GANs to make images with flat shading that resemble cartoon styles, a variety of
 methods have been devised. Image filtering or formulations in optimization
@@ -30,14 +30,17 @@ manifold or synthetic. We design the generator and discriminator networks to sui
 the particularity of cartoon images
 
 ##GENERATOR
+
 <img src= "https://user-images.githubusercontent.com/91316387/175880633-e984bb2c-e011-49e9-9620-9484f3f8e2ef.png" =250x250>
 
 ##DISCRIMINATOR
+
 ![image](https://user-images.githubusercontent.com/91316387/175880712-1c39d4bf-c7d1-45ee-94a6-0aad09b71714.png =250x250)
 
 RESULTS
 
 sample output of model!
+
 ![image](https://user-images.githubusercontent.com/91316387/175880931-472d1882-5437-4ff3-a771-0567ea6b1313.png =250x250)
 
 Results folder will be generated in the process of training the model. What we
@@ -48,9 +51,11 @@ randomly pics the images and gives the output of few samples. We expected a
 good quality image after 100000 iterations and obtained as well.
 
 Generated image after 10K iterations!
+
 ![image](https://user-images.githubusercontent.com/91316387/175881904-70a222fc-e580-413c-995b-de1174aa1759.png =250x250)
 
 Generated image after 100K iterations!
+
 ![image](https://user-images.githubusercontent.com/91316387/175881947-98dadab7-0b80-492f-9e69-54f2495d40aa.png =250x250)
 
 
