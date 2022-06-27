@@ -9,7 +9,7 @@ GANs achieve this level of realism by pairing a generator, which learns to produ
 
 #Networks – use deep neural networks for training purposes.
 
-![image](https://user-images.githubusercontent.com/91316387/175880242-cd809f8d-1afe-4708-be35-6b8dc8c7d5d6.png =250x250)
+![e169d77e-b6e8-4955-8532-a316baaad637](https://user-images.githubusercontent.com/91316387/175883213-736e77b3-f351-4e64-a727-47d671a6159c.jpg =250x250)
 
 We use GANs to make images with flat shading that resemble cartoon styles, a variety of
 methods have been devised. Image filtering or formulations in optimization
