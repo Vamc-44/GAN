@@ -9,3 +9,20 @@ GANs achieve this level of realism by pairing a generator, which learns to produ
 
 #Networks – use deep neural networks for training purposes.
 
+We use GANs to make images with flat shading that resemble cartoon styles, a variety of
+methods have been devised. Image filtering or formulations in optimization
+problems are used in these strategies. However, capturing complex aesthetic styles
+with simple mathematical methods is difficult.Applying uniform filtering or
+optimization to the entire image, for example, does not achieve the high-level
+abstraction that an artist would achieve, such as making object borders evident
+
+
+Alternative methods rely on image/video segmentation to increase outcomes, however this comes at the cost of some user interaction. For portraits, dedicated
+methods have been developed, in which semantic segmentation can be produced
+automatically by detecting facial component
+
+A GAN framework consists of two CNNs. One is the generator G which is
+trained to produce output that fools the discriminator. The other is the
+discriminator D which classifies whether the image is from the real target
+manifold or synthetic. We design the generator and discriminator networks to suit
+the particularity of cartoon images
