@@ -31,6 +31,7 @@ the particularity of cartoon images
 
 ##GENERATOR
 ![image](https://user-images.githubusercontent.com/91316387/175880633-e984bb2c-e011-49e9-9620-9484f3f8e2ef.png =250x250)
+![e169d77e-b6e8-4955-8532-a316baaad637](https://user-images.githubusercontent.com/91316387/175882856-dce5a7c9-f59b-45d1-9560-f696e1425752.jpg)
 
 ##DISCRIMINATOR
 ![image](https://user-images.githubusercontent.com/91316387/175880712-1c39d4bf-c7d1-45ee-94a6-0aad09b71714.png =250x250)
