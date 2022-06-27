@@ -14,7 +14,7 @@ GAN Architecture
 <p align="center">
   <img 
     width="350"
-    height="200"
+    height="350"
     src="https://user-images.githubusercontent.com/91316387/175883213-736e77b3-f351-4e64-a727-47d671a6159c.jpg"
   >
 </p>
@@ -66,8 +66,8 @@ sample output of model!
 
 <p align="center">
   <img 
-    width="350"
-    height="200"
+    width="550"
+    height="300"
     src="https://user-images.githubusercontent.com/91316387/175880931-472d1882-5437-4ff3-a771-0567ea6b1313.png"
   >
 </p>
@@ -84,8 +84,8 @@ Generated image after 10K iterations!
 
 <p align="center">
   <img 
-    width="350"
-    height="200"
+    width="550"
+    height="300"
     src="https://user-images.githubusercontent.com/91316387/175881904-70a222fc-e580-413c-995b-de1174aa1759.png"
   >
 </p>
@@ -94,8 +94,8 @@ Generated image after 100K iterations!
 
 <p align="center">
   <img 
-    width="350"
-    height="200"
+    width="550"
+    height="300"
     src="https://user-images.githubusercontent.com/91316387/175881947-98dadab7-0b80-492f-9e69-54f2495d40aa.png"
   >
 </p>
