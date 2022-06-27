@@ -9,7 +9,7 @@ GANs achieve this level of realism by pairing a generator, which learns to produ
 
 #Networks – use deep neural networks for training purposes.
 
-![image](https://user-images.githubusercontent.com/91316387/175880242-cd809f8d-1afe-4708-be35-6b8dc8c7d5d6.png)
+![image](https://user-images.githubusercontent.com/91316387/175880242-cd809f8d-1afe-4708-be35-6b8dc8c7d5d6.png =250x250)
 
 We use GANs to make images with flat shading that resemble cartoon styles, a variety of
 methods have been devised. Image filtering or formulations in optimization
@@ -29,5 +29,40 @@ discriminator D which classifies whether the image is from the real target
 manifold or synthetic. We design the generator and discriminator networks to suit
 the particularity of cartoon images
 
+##GENERATOR
+![image](https://user-images.githubusercontent.com/91316387/175880633-e984bb2c-e011-49e9-9620-9484f3f8e2ef.png =250x250)
 
+##DISCRIMINATOR
+![image](https://user-images.githubusercontent.com/91316387/175880712-1c39d4bf-c7d1-45ee-94a6-0aad09b71714.png =250x250)
+
+RESULTS
+
+sample output of model!
+![image](https://user-images.githubusercontent.com/91316387/175880931-472d1882-5437-4ff3-a771-0567ea6b1313.png =250x250)
+
+Results folder will be generated in the process of training the model. What we
+have observed in the training process is that the similarity between the animated
+image and real image would decrease as the training iterations increase. By increasing the number of iterations the quality of the image also get
+increased, which can be observed in the below image samples. The model
+randomly pics the images and gives the output of few samples. We expected a
+good quality image after 100000 iterations and obtained as well.
+
+Generated image after 10K iterations!
+![image](https://user-images.githubusercontent.com/91316387/175881904-70a222fc-e580-413c-995b-de1174aa1759.png =250x250)
+
+Generated image after 100K iterations!
+![image](https://user-images.githubusercontent.com/91316387/175881947-98dadab7-0b80-492f-9e69-54f2495d40aa.png =250x250)
+
+
+#CONCLUSION
+
+We suggested CartoonGAN, a Generative Adversarial Network, in this study
+to convert real-world pictures into high-quality cartoon style graphics. Attempting
+to recreate We present (1) a method for capturing the faithful properties of cartoon
+images.for clear edges, a unique edge-promoting adversarial loss, and
+(2) high-level feature maps with a l1 sparse regularisationfor content loss in the
+VGG network, which provides enough flexibility for replicating smooth shading
+We also present a straightforward but effective initialization phase to assist
+enhance convergence. The results reveal that CartoonGAN can learn a model that converts photos of
+real-world scenes into cartoon-style images with great quality and efficiency, exceeding state-of-the-art stylization approaches by a wide margin
 
