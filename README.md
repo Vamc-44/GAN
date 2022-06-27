@@ -75,6 +75,6 @@ real-world scenes into cartoon-style images with great quality and efficiency, e
   <img 
     width="300"
     height="300"
-    src="[https://picsum.photos/300/300](https://user-images.githubusercontent.com/91316387/175881947-98dadab7-0b80-492f-9e69-54f2495d40aa.png)"
+    src="https://user-images.githubusercontent.com/91316387/175881947-98dadab7-0b80-492f-9e69-54f2495d40aa.png"
   >
 </p>
