@@ -3,13 +3,13 @@ Generative adversarial networks (GANs) are an exciting recent innovation in mach
 GANs are generative models: they createnew data instances that resemble your training data. For example, GANs can create images that look like photographs of human faces, even thoughthe faces don't belong to any real person. 
 GANs achieve this level of realism by pairing a generator, which learns to produce the target output, with a discriminator, which learns to distinguish true data from the output of the generator. The generator tries to fool the discriminator, and the discriminator tries to keep from being fooled.
 
-#Generative – To learn a generative model, which describes how data is generated in terms of a probabilistic model. In simple words, it explains how data is generated visually. 
+**Generative** – To learn a generative model, which describes how data is generated in terms of a probabilistic model. In simple words, it explains how data is generated visually. 
 
-#Adversarial – The training of the model is done in an adversarial setting. 
+**Adversarial** – The training of the model is done in an adversarial setting. 
 
-#Networks – use deep neural networks for training purposes.
+**Networks** – use deep neural networks for training purposes.
 
-GAN Architecture
+*GAN Architecture*
 
 <p align="center">
   <img 
@@ -38,7 +38,7 @@ discriminator D which classifies whether the image is from the real target
 manifold or synthetic. We design the generator and discriminator networks to suit
 the particularity of cartoon images
 
-##GENERATOR
+**GENERATOR**
 
 <p align="center">
   <img 
@@ -49,7 +49,7 @@ the particularity of cartoon images
 </p>
 
 
-##DISCRIMINATOR
+**DISCRIMINATOR**
 
 <p align="center">
   <img 
@@ -60,7 +60,7 @@ the particularity of cartoon images
 </p>
 
 
-RESULTS
+**RESULTS**
 
 sample output of model!
 
@@ -80,7 +80,7 @@ increased, which can be observed in the below image samples. The model
 randomly pics the images and gives the output of few samples. We expected a
 good quality image after 100000 iterations and obtained as well.
 
-Generated image after 10K iterations!
+*Generated image after 10K iterations!*
 
 <p align="center">
   <img 
@@ -90,7 +90,7 @@ Generated image after 10K iterations!
   >
 </p>
 
-Generated image after 100K iterations!
+*Generated image after 100K iterations!*
 
 <p align="center">
   <img 
@@ -100,7 +100,7 @@ Generated image after 100K iterations!
   >
 </p>
 
-#CONCLUSION
+**CONCLUSION**
 
 We suggested CartoonGAN, a Generative Adversarial Network, in this study
 to convert real-world pictures into high-quality cartoon style graphics. Attempting
