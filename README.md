@@ -9,7 +9,13 @@ GANs achieve this level of realism by pairing a generator, which learns to produ
 
 #Networks – use deep neural networks for training purposes.
 
-![e169d77e-b6e8-4955-8532-a316baaad637](https://user-images.githubusercontent.com/91316387/175883213-736e77b3-f351-4e64-a727-47d671a6159c.jpg)
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="https://picsum.photos/300/300](https://user-images.githubusercontent.com/91316387/175883213-736e77b3-f351-4e64-a727-47d671a6159c.jpg"
+  >
+</p>
 
 We use GANs to make images with flat shading that resemble cartoon styles, a variety of
 methods have been devised. Image filtering or formulations in optimization
@@ -71,10 +77,4 @@ We also present a straightforward but effective initialization phase to assist
 enhance convergence. The results reveal that CartoonGAN can learn a model that converts photos of
 real-world scenes into cartoon-style images with great quality and efficiency, exceeding state-of-the-art stylization approaches by a wide margin
 
-<p align="center">
-  <img 
-    width="300"
-    height="300"
-    src="https://picsum.photos/300/300"
-  >
-</p>
+
